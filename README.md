@@ -1,4 +1,4 @@
-Note Pad App
+# Note Pad App
 A simple Note Pad application built with Flutter that allows users to create, update, delete, and view notes.
 The app uses SQLite for local storage and Shared Preferences for dark mode theme persistence. 
 This app demonstrates basic CRUD operations and state management.
